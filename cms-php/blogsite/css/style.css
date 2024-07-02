@@ -1,0 +1,19 @@
+/* Main page and user interface*/
+
+body{
+  height:100%;
+  margin: 0;
+}
+  
+
+.header {
+  width: 100vw;
+  margin: 0;
+  height: 60px;
+}
+
+
+p {
+  word-break: break-all;
+  white-space: normal;
+}
